@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LocationPopup</name>
+   <tag></tag>
+   <elementGuidId>e8e702b5-d638-4f4b-99bd-92f627826e4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_allow_foreground_only_button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_allow_foreground_only_button']</value>
+      <webElementGuid>25d38985-7de1-4472-81c4-5675937f7233</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LoginErrorMessage</name>
+   <tag></tag>
+   <elementGuidId>d2b1dda6-1c25-42e7-abee-d4251847d85f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.view.View[@resource-id='login-error-alert']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.view.View[@resource-id='login-error-alert']</value>
+      <webElementGuid>1fecf720-dd29-4e73-8175-700a513200d3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

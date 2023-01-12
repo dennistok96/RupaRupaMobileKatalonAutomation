@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LihatSemuaPromoButton</name>
+   <tag></tag>
+   <elementGuidId>f9e08500-bfe9-4acc-8d53-9ed3fa5a88ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text='Promo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text='Promo']</value>
+      <webElementGuid>50a8c494-4b8c-40c5-bb29-a246fa5b43cd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

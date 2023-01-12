@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MetodePengirimanPilihButton</name>
+   <tag></tag>
+   <elementGuidId>ce69f630-7840-48ed-a078-e39343688de3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text='Pilih']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text='Pilih']</value>
+      <webElementGuid>5ac3cba4-3bb8-4565-b030-777be3f7788b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

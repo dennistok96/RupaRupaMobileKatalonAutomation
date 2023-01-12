@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FilterSaveButton</name>
+   <tag></tag>
+   <elementGuidId>12b20cfb-ca08-4966-add7-676e7eee987e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text='Terapkan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text='Terapkan']</value>
+      <webElementGuid>ed781486-f96f-46a5-a029-d7d3282d3877</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

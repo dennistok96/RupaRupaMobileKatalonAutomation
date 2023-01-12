@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PromoSaveButton</name>
+   <tag></tag>
+   <elementGuidId>a259a777-c071-4e22-bac2-b135b5b4a649</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text='Simpan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text='Simpan']</value>
+      <webElementGuid>22b2dd90-9020-49ab-ae81-196033d6108e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

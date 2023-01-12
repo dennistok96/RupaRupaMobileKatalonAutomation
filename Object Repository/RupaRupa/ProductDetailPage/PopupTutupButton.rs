@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopupTutupButton</name>
+   <tag></tag>
+   <elementGuidId>04561d49-4e5f-41e3-b197-a67222d27944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text='Tutup']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text='Tutup']</value>
+      <webElementGuid>8367129a-1e58-40d5-b1be-e2899f80dc1f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

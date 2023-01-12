@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PromoCheckbox</name>
+   <tag></tag>
+   <elementGuidId>86e3a184-bf88-4967-bc10-f5e03a25ef0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text='${promoCategory}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text='${promoCategory}']</value>
+      <webElementGuid>7395f664-513c-49b0-8e77-816c58febd9e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
