@@ -23,9 +23,9 @@ Mobile.waitForElementPresent(findTestObject('RupaRupa/HomePage/PopupButton'), Gl
 
 Mobile.tap(findTestObject('RupaRupa/HomePage/PopupButton'), GlobalVariable.timeout)
 
-//Mobile.waitForElementPresent(findTestObject('RupaRupa/HomePage/BannerButton'), GlobalVariable.longTimeout)
-//
-//Mobile.tapAtPosition(1332, 802)
+Mobile.waitForElementPresent(findTestObject('RupaRupa/HomePage/BannerButton'), GlobalVariable.longTimeout)
+
+Mobile.tapAtPosition(1370, 750)
 
 Mobile.comment('When the user tap on Rumah tangga category button')
 
